@@ -6,7 +6,7 @@
 
 
 ### About me
-- 🔭 Currently working on my career path in (Front-end | UX/UI Design).
+- 🔭 Currently working on my career path in (Software Engineering).
 - 🌱 I'm learning Javascript stuff and other technologies required to go ahead in my journey.
 - 👯 I want to collaborate in change our planet issues using tech to achieve that and explore other planets.
 - ⚡ Fun fact: I really appreciate Interplanetary explorations, Documentaries, and Series. Also, some e-sports for entertainment.
