@@ -12,6 +12,16 @@
 ![Babel](https://img.shields.io/badge/Babel-%23F9DC3E?style=flat&logo=babel&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-%230078D4?style=flat&logo=visualstudiocode&logoColor=white)  
 
+#### Metodologias
+![Mobile First](https://img.shields.io/badge/Mobile%20First-%23000000?style=flat&logoColor=white) 
+![Adaptive Design](https://img.shields.io/badge/Adaptive%20Design-%23333333?style=flat&logoColor=white) 
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%23666666?style=flat&logoColor=white)  
+![DRY](https://img.shields.io/badge/DRY-%23000000?style=flat&logoColor=white)
+![SMACSS](https://img.shields.io/badge/SMACSS-%23333333?style=flat&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-%23666666?style=flat&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-%23007ACC?style=flat&logoColor=white) 
+![Kanban](https://img.shields.io/badge/Kanban-%23F2B705?style=flat&logoColor=white)  
+
 #### Design
 ![Figma](https://img.shields.io/badge/Figma-%23000000?style=flat&logo=figma&logoColor=white) 
 ![Design System](https://img.shields.io/badge/Design%20System-%23512BD4?style=flat&logoColor=white) 
@@ -23,15 +33,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat&logo=vercel&logoColor=white)  
 
-#### Metodologias
-![Mobile First](https://img.shields.io/badge/Mobile%20First-%23000000?style=flat&logoColor=white) 
-![Adaptive Design](https://img.shields.io/badge/Adaptive%20Design-%23333333?style=flat&logoColor=white) 
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%23666666?style=flat&logoColor=white)  
-![DRY](https://img.shields.io/badge/DRY-%23000000?style=flat&logoColor=white)
-![SMACSS](https://img.shields.io/badge/SMACSS-%23333333?style=flat&logoColor=white)
-![BEM](https://img.shields.io/badge/BEM-%23666666?style=flat&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-%23007ACC?style=flat&logoColor=white) 
-![Kanban](https://img.shields.io/badge/Kanban-%23F2B705?style=flat&logoColor=white)  
 
 #### Aprimorando
 ![React](https://img.shields.io/badge/React-%2320232A?style=flat&logo=react&logoColor=%2361DAFB) 
