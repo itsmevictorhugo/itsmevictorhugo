@@ -1,17 +1,39 @@
-![myPresentationBanner](./img/itsmevictorhugo-banner.jpg)
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxqZHQzdmF2NDVwb240YW5lZzE5YWl3aDAwbXd3Nzd5M3NvYnB2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WfHxO4yrDLfWNw7ltq/giphy.gif"  alt="GIF no perfil do Github de Victor Hugo">
 
-<pre>
-<b>Desenvolvedor Frontend e UX/UI Designer na BTW.VH</b> 🕵️‍♂️🤵​
-<i>Construo interfaces limpas, funcionais e acessíveis</i>
+### BTW.VH | Desenvolvedor Frontend 🕵️‍♂️
 
-<b>Frontend:</b> HTML5, CSS3(Flexbox, Grid), JavaScript Vanilla
-<b>Design:</b> Design System, Heuristic, Wireframes, Prototypes, Typography, Colors
-<b>Methodologies:</b> Design System, Mobile First, Adaptive Design, Responsive Design
-<b>Agile:</b> Scrum, Kanban <b>Version:</b> Git, Github <b>Deploy:</b> Vercel <b>Tools:</b> Figma, VSCode
+#### Stack & Ferramentas
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript ES6+](https://img.shields.io/badge/JavaScript%20ES6%2B-%23F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9?style=flat&logo=webpack&logoColor=1C78C0) 
+![npm](https://img.shields.io/badge/npm-%23CB3837?style=flat&logo=npm&logoColor=white) 
+![ESLint](https://img.shields.io/badge/ESLint-%234B32C3?style=flat&logo=eslint&logoColor=white) 
+![Babel](https://img.shields.io/badge/Babel-%23F9DC3E?style=flat&logo=babel&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-%230078D4?style=flat&logo=visualstudiocode&logoColor=white)  
 
-🌱 <b>JavaScript ES6+</b> 
-🎓​ Publicitário Bacharelado '16
+#### Design
+![Figma](https://img.shields.io/badge/Figma-%23000000?style=flat&logo=figma&logoColor=white) 
+![Design System](https://img.shields.io/badge/Design%20System-%23512BD4?style=flat&logoColor=white) 
+![Wireframes](https://img.shields.io/badge/Wireframes-%23666666?style=flat) 
+![Prototyping](https://img.shields.io/badge/Prototyping-%233DDC84?style=flat&logoColor=white)  
 
-<small>2015⌛2025</small>
-<a href="https://github.com/itsmevictorhugo" alt="Github Profile"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a><a href="https://www.linkedin.com/in/itsmevictorhugo" alt="LinkedIn Profile"><img alt="LinkedIn Profile" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</pre>
+#### Versionamento & Deploy
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat&logo=vercel&logoColor=white)  
+
+#### Metodologias
+![Mobile First](https://img.shields.io/badge/Mobile%20First-%23000000?style=flat&logoColor=white) 
+![Adaptive Design](https://img.shields.io/badge/Adaptive%20Design-%23333333?style=flat&logoColor=white) 
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%23666666?style=flat&logoColor=white)  
+![DRY](https://img.shields.io/badge/DRY-%23000000?style=flat&logoColor=white)
+![SMACSS](https://img.shields.io/badge/SMACSS-%23333333?style=flat&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-%23666666?style=flat&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-%23007ACC?style=flat&logoColor=white) 
+![Kanban](https://img.shields.io/badge/Kanban-%23F2B705?style=flat&logoColor=white)  
+
+#### Aprimorando
+![React](https://img.shields.io/badge/React-%2320232A?style=flat&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=flat&logo=tailwind-css&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-%2307405E?style=flat&logo=sqlite&logoColor=white)  
