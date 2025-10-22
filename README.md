@@ -40,5 +40,5 @@
 
 #### Aprimorando
 ![React](https://img.shields.io/badge/React-%2320232A?style=flat&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=flat&logo=tailwind-css&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-%2307405E?style=flat&logo=sqlite&logoColor=white)  
+![WordPress CMS](https://img.shields.io/badge/WordPress%20CMS-%2321759B?style=flat&logo=wordpress&logoColor=white)
+![WordPress REST API](https://img.shields.io/badge/WordPress%20REST%20API-%2321759B?style=flat&logo=wordpress&logoColor=white)
