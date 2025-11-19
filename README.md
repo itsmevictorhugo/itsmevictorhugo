@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <i>Projects highlighted in the pinned repositories bellow.</i>
+  <i>Projects highlighted in the pinned repositories.</i>
 </p>
