@@ -1,5 +1,5 @@
-// ~/whoami.ts
-
+<sub>~/whoami.ts</sub>
+```ts
 type Developer = {
   role: string
   currentStack: string[]
@@ -28,3 +28,4 @@ const victorHugo: Developer = {
 }
 
 export default victorHugo
+```
