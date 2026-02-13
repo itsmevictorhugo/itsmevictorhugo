@@ -17,6 +17,7 @@ const victorHugo: Developer = {
     "Vite"
   ],
   learning: [
+    "Node",
     "TypeScript",
     "Tailwind CSS"
   ],
